@@ -1,2 +1,3 @@
 # Slagalica
-Popular TV game whish using letters to create word
+Popular TV game which using letters to create word
+Created word is checking at Dictionary (text file)
